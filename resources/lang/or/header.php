@@ -1,0 +1,30 @@
+<?php
+
+	return [
+		'title' => 'cush commerce',
+		'home'=>'Home',
+		'products'=>'Products',
+		'recently_posted' => 'Recently Posted',
+		'top_sold' => 'Top Sold',
+		'categories' =>'Categories',
+		'shops' =>'Shops',
+		'b2b' => 'Business to Business',
+		'b2c' => 'Business to Consumer',
+		'new_shops' => 'New Opened Shops',
+		'all_shops' => 'All Shops',
+		'order_status' => 'Order Status',
+		'customer' => 'Customer',
+		'wishlist' => 'Wishlist',
+		'checkouts'=>'Checkouts',
+		'comparision'=>'Comparision',
+		'cart'=>'Cart',
+		'login'=>'Login',
+		'register'=>'Register',
+		'sign_up' => 'Sign Up',
+		'my_profile' => 'My Profile',
+		'manage_shop' => 'Manage Shope',
+		'manage_request' => 'Manage Request',
+		'dashboard' => 'Dashboard',
+		'account_setting' => 'Account Setting',
+		'logout' => 'Logout'
+	];

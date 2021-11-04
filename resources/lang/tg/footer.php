@@ -1,0 +1,25 @@
+<?php 
+
+	return [
+		'get_connect_with_us' => 'Get connected with us on social networks!',
+		'moto' => 'First online e-commerce system company in Ethiopia',
+		'service' => 'Service',
+		'help' => 'Online Help',
+		'contact' => 'Contact Us',
+		'location' => 'Change Location',
+		'faq' => 'FAQ’s',
+		'language' => 'Language',
+		'policies' => 'Policies',
+		'terms_of_use' => 'Terms of Use',
+		'privacy_policy' => 'Privecy Policy',
+		'refunc_policy' => 'Refund Policy',
+		'billing_system' => 'Billing System',
+		'ticket_system' => 'Ticket System',
+		'about' => 'About Shopper',
+		'company_info' => 'Company Information',
+		'careers' => 'Careers',
+		'store_location' => 'Store Location',
+		'affillate_program' => 'Affillate Program',
+		'copyright' => 'Copyright',
+		'get_info_cont' => 'Get the most recent updates from our site and be updated your self...',
+	];

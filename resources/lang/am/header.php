@@ -1,0 +1,30 @@
+<?php
+
+	return [
+		'title' => 'የኩሽ ገበያ',
+		'home'=>'ዋና ገፅ',
+		'products'=>'ዕቃዎች',
+		'recently_posted' => 'በቅርቡ የተለቀቁ',
+		'top_sold' => 'በብዛት የተሸጡ',
+		'categories' =>'የዕቃዎች አይነት',
+		'shops' =>'ሱቆች',
+		'b2b' => 'የጅመላ ሱቆች',
+		'b2c' => 'የችርቻሮ ሱቆች',
+		'new_shops' => 'አዲስ የተከፈቱ ሱቆች',
+		'all_shops' => 'ሁሉም ሱቆች',
+		'order_status' => 'የታዘዙ ዕቃዎች ሁኔታ ',
+		'customer' => 'ደንበኛ',
+		'wishlist' => 'Wishlist',
+		'checkouts'=>'ግዢ ፈፅም',
+		'comparision'=>'ዕቃዎችን አወዳድር',
+		'cart'=>'ከረጢት',
+		'login'=>'Login',
+		'register'=>'Register',
+		'sign_up' => 'Sign Up',
+		'my_profile' => 'My Profile',
+		'manage_shop' => 'Manage Shope',
+		'manage_request' => 'Manage Request',
+		'dashboard' => 'Dashboard',
+		'account_setting' => 'Account Setting',
+		'logout' => 'Logout'
+	];
